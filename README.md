@@ -16,4 +16,4 @@ Example
 }
 ````
 
-Please note! SOme data is missing, not for production use
+Please note! Some data is missing, not for production use
